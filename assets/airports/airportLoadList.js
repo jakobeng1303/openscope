@@ -227,6 +227,12 @@ window.AIRPORT_LOAD_LIST = (function() { // eslint-disable-line wrap-iife
             name: 'Phoenix Sky Harbor International Airport',
             wip: false
         },
+        {
+            icao: 'kpvd',
+            level: 'beginner',
+            name: 'Theodore Francis State Memorial Airport',
+            wip: true
+        },
         // {
         //     icao: 'ksan',
         //     level: 'easy',
